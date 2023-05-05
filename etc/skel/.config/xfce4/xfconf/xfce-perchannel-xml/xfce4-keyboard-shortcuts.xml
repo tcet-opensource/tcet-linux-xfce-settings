@@ -60,6 +60,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Alt&gt;b" type="string" value="firefox"/>
+      <property name="&lt;Alt&gt;c" type="string" value="galculator"/>
       <property name="&lt;Alt&gt;s" type="string" value="xfce4-settings-manager"/>
       <property name="&lt;Primary&gt;d" type="string" value="xfce4-display-settings"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;r" type="string" value="reboot"/>
