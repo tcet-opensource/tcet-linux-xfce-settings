@@ -1,11 +1,10 @@
 [Default Applications]
-text/plain=xed.desktop
-application/xml=xed.desktop
-application/x-zerosize=xed.desktop
+text/plain=org.xfce.mousepad.desktop
+application/xml=org.xfce.mousepad.desktop
+application/x-zerosize=org.xfce.mousepad.desktop
 
 [Added Associations]
-text/plain=xed.desktop;
-application/xml=xed.desktop;
-application/x-zerosize=xed.desktop;
-application/x-desktop=xed.desktop;
-
+text/plain=org.xfce.mousepad.desktop;
+application/xml=org.xfce.mousepad.desktop;
+application/x-zerosize=org.xfce.mousepad.desktop;
+application/x-desktop=org.xfce.mousepad.desktop;
