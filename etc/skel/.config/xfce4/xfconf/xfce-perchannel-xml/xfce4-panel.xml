@@ -82,5 +82,10 @@
         <value type="string" value="16248209023.desktop"/>
       </property>
     </property>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16248209024.desktop"/>
+      </property>
+    </property>
   </property>
 </channel>
