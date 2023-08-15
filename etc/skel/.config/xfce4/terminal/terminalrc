@@ -1,11 +1,11 @@
-[Configuration]
+ [Configuration]
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_IBEAM
-MiscDefaultGeometry=117x26
+MiscDefaultGeometry=104x23
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -27,6 +27,6 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ScrollingOnKeystroke=FALSE
-FontName=Iosevka Extended
+FontName=Iosevka Extended 11
 ColorUseTheme=TRUE
 
