@@ -39,7 +39,7 @@ $scala\
 [](fg:#2C193D bg:#261132)\
 $time\
 [ ](fg:#261132)\
-\n▶▶"""
+\n▶▶ """
 
 [directory]
 style = "fg:#180024 bg:#7E6B9C  "
@@ -207,4 +207,3 @@ disabled = false
 time_format = "%R" # Hour:Minute Format
 style = "bg:#1d2230"
 format = '[[  $time](fg:#FEFEE3 bg:#261132)]($style)'
-
