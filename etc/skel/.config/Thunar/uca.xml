@@ -11,20 +11,6 @@
 	<directories/>
 </action>
 <action>
-	<icon>krusader_root</icon>
-	<name>Open Thunar As Root</name>
-	<unique-id>1624821934392754-1</unique-id>
-	<command>pkexec thunar %f</command>
-	<description>Open File Browser as Root User</description>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
 	<icon>view-hidden</icon>
 	<name>Show Hidden Files</name>
 	<unique-id>1624823324668515-1</unique-id>
