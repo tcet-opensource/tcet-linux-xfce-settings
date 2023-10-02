@@ -44,7 +44,7 @@ jobs:
         with:
           artifacts: "*.tar.gz,checksum"
           generateReleaseNotes: false
-          name: "TCET-Linux Wallpaper"
+          name: "TCET-Linux Settings"
           tag: ${{ env.DATE }}
 
    
