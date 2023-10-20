@@ -870,6 +870,10 @@
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="backdrop-cycle-enable" type="bool" value="true"/>
+          <property name="backdrop-cycle-timer" type="uint" value="10"/>
+          <property name="backdrop-cycle-random-order" type="bool" value="true"/>
+          <property name="backdrop-cycle-period" type="int" value="0"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
