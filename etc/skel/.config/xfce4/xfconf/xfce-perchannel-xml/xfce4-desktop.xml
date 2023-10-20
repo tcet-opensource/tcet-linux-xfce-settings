@@ -8,7 +8,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -17,32 +17,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--eDP1 Laptop Screen-->
@@ -50,7 +50,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -59,32 +59,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--LVDS1 old laptop support-->>
@@ -92,7 +92,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -101,32 +101,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--DP1 desktop screen (VGA)-->
@@ -134,7 +134,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -143,32 +143,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--DP2 desktop screen (VGA)-->
@@ -176,7 +176,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -185,32 +185,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--DP-1 desktop screen (VGA)-->
@@ -218,7 +218,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -227,32 +227,32 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--DP-2 desktop screen (VGA)-->
@@ -260,7 +260,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -269,292 +269,292 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitor0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="false"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitor1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorVGA-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorVGA1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--External GPU HDMI-->
@@ -562,7 +562,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -571,143 +571,143 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI-2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI-3" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--2nd Monitor conected with HDMI-->
@@ -715,7 +715,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -724,180 +724,180 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorHDMI-1-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorDVI-I-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorDVI-D-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorDVI-D-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <!--VirtualBox-->>
@@ -905,7 +905,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
@@ -914,143 +914,143 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorVirtual2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorVirtual-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
       <property name="monitorVirtual-2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper6.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/tcet-linux/wallpaper6.png"/>
         </property>
       </property>
     </property>
