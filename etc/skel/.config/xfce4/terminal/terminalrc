@@ -5,7 +5,7 @@ MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_IBEAM
-MiscDefaultGeometry=104x23
+MiscDefaultGeometry=95x22
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -27,6 +27,6 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ScrollingOnKeystroke=FALSE
-FontName=Iosevka Expanded 11
+FontName=Source Code Pro 12
 ColorUseTheme=TRUE
 
