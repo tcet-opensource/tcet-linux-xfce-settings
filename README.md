@@ -1,4 +1,4 @@
-# TCET Linux Settings
+# TCET Linux Xfce Settings
 
 This repository contains the all the code for setting the applications for [TCET-Linux](https://github.com/tcet-opensource/tcet-linux)
 
